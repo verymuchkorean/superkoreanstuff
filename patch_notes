@@ -1,0 +1,67 @@
+PATCH NOTES 12/11/19
+- updated
+
+PATCH NOTES 06/11/19
+- updated
+- sorry for delay, blizzard added some security.
+- also very busy recently
+- temporarily fixed input, until the new overwatch input system is reversed
+
+PATCH NOTES 26/10/19
+
+- fixed for bluescreeners
+- fixed esp, border esp will follow soon
+
+PATCH NOTES 25/10/19
+
+- updated for patch
+- added protection against detection
+
+PATCH NOTES 17/10/19
+
+- exo has been updated.
+- small bug fixes in 17_2, tracking should be smooth now again.
+- removed check for menu in game temp. 
+
+Info:
+
+EU Discord server was deleted, here is the new Link:
+https://discord.gg/ZGZZ82T
+
+=============================================
+
+PATCH NOTES 16/10/19
+
+- small update, because the performance changes from below were not fully included, now you should have double performance for real.
+- also fixed exo not loading for a portion
+
+=============================================
+
+PATCH NOTES 15/10/19
+
+General:
+
+- improved cheat core performance ( +60% )
+- improved esp performance
+- cpu load decrease by about 400%
+
+Bugfixes:
+
+- hanzo snapping between targets
+- exo not closing properly
+- cpu load max when exo minimized
+- exo gui not responding when tabbed out
+
+Features:
+
+- added draw battle tag option
+- added draw hero name option
+
+Info:
+
+There are still bugs with Genji and I know it does not yet feel perfect.
+Is being worked on!
+
+=============================================
+
+
